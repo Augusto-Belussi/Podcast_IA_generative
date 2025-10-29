@@ -7,7 +7,7 @@
 Resultado
 
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Code in Style                                                    |
+|  título  | Code in Style                                                    
 | conteúdo | 🎧 [Introdução]
 Seja bem-vindo ao Code in Style, o podcast onde tecnologia e criatividade andam de mãos dadas!
 Hoje, a gente vai falar sobre algo essencial no mundo da web — o CSS.
