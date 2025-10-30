@@ -48,5 +48,5 @@ Google Gemini para criação de visual
 
 Criado por Augusto Belussi
 
-[GitHub](https://github.com/Augusto-Belussi/Podcast_IA_generative) | [LinkedIn](www.linkedin.com/in/augustobelussi) | [Instagram](https://www.instagram.com/augusto_belussi)
+[GitHub](https://github.com/Augusto-Belussi/Podcast_IA_generative) | [LinkedIn](https://www.linkedin.com/in/augustobelussi) | [Instagram](https://www.instagram.com/augusto_belussi)
 
