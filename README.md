@@ -1,3 +1,6 @@
+![Logo do Podcast](./assets/logo_podcast.png)
+
+
 🎙️ Code in Style
 
 “Porque até o código precisa de estilo.”
@@ -34,7 +37,5 @@ ChatGpt para roteirização e documentação;
 
 ElevenLabs para criação da voz;
 
-Git e GitHub para versionamento e colaboração;
-
-VS Code como ambiente de desenvolvimento;
+CapCut para edição de audio;
 
