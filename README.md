@@ -1,9 +1,10 @@
-![Logo do Podcast](./assets/logo_podcast.png)
+![Logo do Podcast](assets/logo_podcast.png)
 
 
 🎙️ Code in Style
 
 “Porque até o código precisa de estilo.”
+
 
 🧠 Sobre o projeto
 
@@ -27,6 +28,7 @@ Exemplos práticos e analogias para facilitar o aprendizado.
 
 O conteúdo é voltado para novos programadores, estudantes e entusiastas da tecnologia, com uma linguagem acessível e toques de humor nerd.
 
+
 🧰 Ferramentas utilizadas
 
 Durante o desenvolvimento do projeto, foram utilizadas as seguintes ferramentas:
@@ -39,3 +41,11 @@ ElevenLabs para criação da voz;
 
 CapCut para edição de audio;
 
+Google Gemini para criação de visual
+
+
+💬 Autor
+
+Criado por Augusto Belussi
+📧 www.linkedin.com/in/augustobelussi
+🌐 https://github.com/Augusto-Belussi/Podcast_IA_generative
