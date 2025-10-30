@@ -1,18 +1,23 @@
-![Logo do Podcast](assets/logo_podcast.png)
+<p align="center">
+<img 
+    src="./assets/logo_podcast.png"
+    width="500"
+    length="200"
+/>
+
+## 🎙️ Code in Style
+
+### Porque até o código precisa de estilo.
 
 
-🎙️ Code in Style
-
-“Porque até o código precisa de estilo.”
-
-
-🧠 Sobre o projeto
+## 🧠 Sobre o projeto
 
 Code in Style é um podcast educativo e divertido criado para apresentar o mundo do CSS (Cascading Style Sheets) a quem está começando na área de tecnologia.
 
 O objetivo é ensinar de forma simples, leve e envolvente o que é o CSS, como ele surgiu, para que serve e como transforma a web em algo visualmente incrível.
 
-🎧 Conteúdo do projeto
+
+## 🎧 Conteúdo do projeto
 
 Este repositório contém o roteiro e o texto do episódio piloto do podcast, que explica:
 
@@ -29,11 +34,7 @@ Exemplos práticos e analogias para facilitar o aprendizado.
 O conteúdo é voltado para novos programadores, estudantes e entusiastas da tecnologia, com uma linguagem acessível e toques de humor nerd.
 
 
-🧰 Ferramentas utilizadas
-
-Durante o desenvolvimento do projeto, foram utilizadas as seguintes ferramentas:
-
-💻 Tecnologias utilizadas
+## 💻 Tecnologias utilizadas
 
 ChatGpt para roteirização e documentação;
 
@@ -44,9 +45,8 @@ CapCut para edição de audio;
 Google Gemini para criação de visual
 
 
-💬 Autor
+## 💬 Autor
 
 Criado por Augusto Belussi
 
-[GitHub](https://github.com/Augusto-Belussi/Podcast_IA_generative) | [LinkedIn](https://www.linkedin.com/in/augustobelussi) | [Instagram](https://www.instagram.com/augusto_belussi)
-
+[GitHub](https://github.com/Augusto-BelussiB) | [LinkedIn](https://www.linkedin.com/in/augustobelussi) | [Instagram](https://www.instagram.com/augusto_belussi)
