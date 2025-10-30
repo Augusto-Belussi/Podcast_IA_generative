@@ -2,7 +2,6 @@
 <img 
     src="./assets/logo_podcast.png"
     width="500"
-    length="200"
 />
 
 ## 🎙️ Code in Style
